@@ -1,0 +1,30 @@
+{
+  "name": "jeast-anoother-rpg",
+  "version": "1.0.0",
+  "description": "An RPG game",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Keemperor/Jeast-Anoother-RPG.git"
+  },
+  "keywords": [
+    "RPG",
+    "tests",
+    "object",
+    "oriented",
+    "programming"
+  ],
+  "author": "Jacob",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Keemperor/Jeast-Anoother-RPG/issues"
+  },
+  "homepage": "https://github.com/Keemperor/Jeast-Anoother-RPG#readme",
+  "devDependencies": {
+    "jest": "^27.4.5"
+  }
+  
+}
